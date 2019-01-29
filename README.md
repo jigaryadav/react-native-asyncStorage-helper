@@ -1,5 +1,5 @@
 
-# react-native-asyncStorageHelper
+# react native async storage helper
 Not a rock breaking stuff just to make you life easy with asyncStorage with no dependancy just copy the file and done.
 
 # Installation
